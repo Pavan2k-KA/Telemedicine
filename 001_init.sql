@@ -1,0 +1,1 @@
+-- schema placeholder (user should replace with full SQL)
